@@ -1,0 +1,59 @@
+                                 C# Net Basics
+  Basic Structure of C#:
+                 understand the Basic Structure of the C# Program using a Console Application.
+
+  Methods and Properties of Console Application:
+                 There are many methods and Properties are available in the Console class.
+  Data Types :
+                i gone through different Data Types and their uses.
+ 
+  Literals :    Gone through literals,The fixed values are called Literals in C#. Here 'Literal' is a value that is used
+                by the variables.
+
+  Type Casting :
+                Here we have two types of type casting. 1.Implicit
+                                                        2.explicit
+                 In 'Implicit' Type conversion, the smaller types are converted to larger data types and hence, there is no 
+                 loss of data during the conversion.
+                 In 'Explicit' Type casting, The larger data types can be converted into smaller datatype. 
+                     Ex : original value is 1.23 whereas the converted value is 1.
+  Variables :  
+                I Gone through different kinds of variables a class can have and their behavior.
+                 1. Non-Static/Instance Variable
+                 2. Static Variable
+                 3. Constant Variable
+                 4. Readonly Variable
+ Operators : 
+               Operators in C# are symbols that are used to perform operations on operands. For example, consider the expression
+               2 + 3 = 5, here 2 and 3 are operands and + and = are called operators.
+               Gone through Different Kinds of operators.
+                 1. Arithmetic Operators
+                 2. Relational Operators
+                 3. Logical Operators
+                 4. Bitwise Operators
+                 5. Assignment Operators
+                 6. Unary Operators or
+                 7. Ternary Operator or Conditional Operator
+  
+ Control Flow Statements :
+                The Control Flow Statements are useful to write better and more complex programs.
+                gone through different types of Control Statements.
+                 1. Selection Statements or Branching Statements: (Examples: if-else, switch case, nested if-else, if-else ladder)
+                 2. Iteration Statements or Looping Statements: (Examples: while loop, do-while loop, for-loop, and foreach loop)
+                 3. Jumping Statements: (Examples: break, continue, return, goto)
+
+ If-Else Statements :
+                Here, the block of statements executes only when the condition is true. And if the condition is false, then it will
+                skip the execution of the statements. Using else block is optional in C#.
+
+  Switch Statements :
+                 When there are several options and we have to choose only one option from the available options 
+                 depending on a single condition then we need to go for a switch statement.The default block in the 
+                 switch statement is optional.
+  Nested Switch Statements :
+                 Whenever we create a switch statement inside another switch statement, then it is said to be a nested 
+                 switch statement and this is allowed in C#. 
+                 
+  
+
+  
