@@ -1,0 +1,40 @@
+                                   Week 2
+Loops :  The basic purpose of the loop is code repetition.
+          2 types of loops they are.
+           1. Counter Loop
+           2. Conditionak loop
+        gone through various types of loops like :
+           1. for loop
+           2.for each
+           3.While and Do While
+Break Statement :
+        the break is a keyword. By using the break statement, we can terminate either the loop body or the switch body.
+ 
+Continue Statement :
+         By using the continue keyword, we can skip the statement execution from the loop body. 
+
+Goto Statement :
+         The Goto Statement in C# is used to transfer the control to the labeled statement in the program.
+Functions :
+         Basically, there are two types of Functions in C#. 
+          1. Built-in Functions :these are default functions providede in C#.
+          2. User-Defined Functions :The User-defined functions in C# are the functions that are created by the programmer so
+                                  that he/she can use it many times
+          
+Call By Value  :
+        In .NET Framework, by default, all the objects are called by value, not called by reference. 
+Call by Reference :
+        C# provides a ref keyword to pass argument as reference-type. It passes reference of arguments to the function rather 
+        than copy of original value. 
+
+Recursion : recursion is a process in which a function calls itself repeatedly until some specified condition has been satisfied.
+
+String : the string is an object of the String class that represents a sequence of characters. We can perform many operations on strings such 
+         as concatenation, comparison, getting substring, search, trim, replacement, etc.
+
+Static Keyword :
+         they most probably answer you that the static keyword is used in Factory Design Pattern, Singleton Design Pattern as well as used for data sharing, etc.
+        
+Static vs Non-Static Members :
+         The members (Variables, Constructors, and Methods) which are created by using the static modifier are called static members rest of all are called non-static members.
+         the members which require an instance of a class for both initialization and execution are known as non-static members.
