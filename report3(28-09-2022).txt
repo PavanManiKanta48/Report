@@ -1,3 +1,4 @@
+<<<<<<< HEAD
                                   Object Oriented Programming (OOPs) in C#
 Class :    A class is simply a user-defined data type that represents both state and behavior.
 
@@ -23,4 +24,31 @@ Polymorphism :
           polymorphism means “many forms” .
 Method Overloading : this can be done with same Method name but different Parameters
 
+=======
+                                  Object Oriented Programming (OOPs) in C#
+Class :    A class is simply a user-defined data type that represents both state and behavior.
+
+Objects : 
+          It is an instance of a class. A class is brought live by creating objects. An object can be considered as a thing
+          that can perform activities.
+
+Constructor  :
+          It is a special method present inside a class responsible for initializing the variables of that class. We will come
+          to this point later part of this article.
+          There are five types of constructors available. they are
+
+          1.Default or Parameter Less Constructor
+          2.Parameterized Constructor
+          3.Copy Constructor
+          4.Static Constructor
+          5.Private Constructor
+
+Inheritance :
+          Inheritance in C# is a mechanism of consuming the members that are defined in one class from another class.
+   
+Polymorphism :
+          polymorphism means “many forms” .
+Method Overloading : this can be done with same Method name but different Parameters
+
+>>>>>>> 2ec34e86e8cfa07e300e4daf4deaf91991915eb5
 Method Overriding : Creating a method in the derived class with the same signature as a method in the base class is called as method overriding. 
