@@ -1,0 +1,32 @@
+                         OOPs
+Garbage Collector :
+            Garbage Collector is nothing but, it is a feature provided by CLR which helps us to clean or destroy unused 
+            managed objects. Cleaning or destroying those unused managed objects basically reclaim the memory.
+
+Access Specifiers :
+            Private : When we declare a type member (variable, property, method, constructor, etc) as private, then we can
+                     access that member within the class only.
+            Public : When we declare a type member (variable, property, method, constructor, etc) as public, then we can access
+                     that member from anywhere.
+            Protected : protected members are available within the parent class (i.e. the containing type) as well as to the 
+                        child/derived classes (classes derived from the containing type). 
+            Internal : available anywhere within the containing assembly. It’s a compile-time error to access an internal member
+                       from outside the containing assembly.
+            Protected Internal : Protected Internal Members in C# can be accessed anywhere within the same assembly i.e. in which
+                                 it is declared or from within a derived class from another assembly.
+            Private Protected : The private protected members are accessible within the class and within the derived class of the
+                                 same assembly but cannot be accessed from another assembly.
+
+Abstraction:  process of defining a class by providing necessary details to call the object operations (i.e. methods) by hiding its
+            implementation details
+
+Inheretance : he members defined in one class can be consumed from another class by establishing a parent/child relationship between
+              the classes.
+Polymorphism : Polymorphism is a concept by which we can perform a single task in different ways.
+
+Struct and Classes :
+             Struct is a value type and class is a reference type so whatever differences hold for reference type and value types hold
+             for struct and classes too.
+
+Interface: Interface members are public by default and no explicit access modifiers are allowed.Can contains declaration not implementation.
+
