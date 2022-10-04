@@ -1,0 +1,36 @@
+                             Master In OOps
+polymorphism : gone little bit deep into polymorphism and different types of implementations. they are,
+             1.Method Overloading
+             2.Operator Overloading
+             3.Method Overriding
+             4.Method Hiding
+
+interface : he Interface in C# is a fully un-implemented class used for declaring a set of methods of an object. So, we
+            can define an interface as a pure abstract class which allows us to define only abstract methods.
+            gone through how to implementit in bank.
+
+
+Abstraction : 
+            Abstract Method: A method without a body is known as an abstract method.
+            Abstract Class: A class that contains any abstract members in it is known as an abstract class.
+
+Static Class :
+           The class which is created by using the static modifier is called a static class in C#. A static class can contain
+           only static members. It is not possible to create an instance of a static class.
+
+partial Class :
+
+           we can physically split the content of the class into different files but even physically they are divided but 
+           logically it is one single unit only.
+
+
+
+
+
+
+
+
+
+
+
+
