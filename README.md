@@ -244,7 +244,9 @@ Enum :
   Doubt clarification by @Ramesh Kumar.
   go through C# Totorials.
   
+  
  10-10-2022
+ 
    Today at 11.00am I attended oops implementation concept by Samantha.
    Another session by Bhushan Chandrashekhar Kolapkar on 12.30pm .On Properties,attributes, indexersand enums.
    Gone through exception handling concept how to use and where to use.
