@@ -243,6 +243,16 @@ Enum :
   Given PPT presention on OOps Concept.
   Doubt clarification by @Ramesh Kumar.
   go through C# Totorials.
+  
+ 08-10-2022
+   Today at 11.00am I attended oops implementation concept by Samantha.
+   Another session by Bhushan Chandrashekhar Kolapkar on 12.30pm .On Properties,attributes, indexersand enums.
+   Gone through exception handling concept how to use and where to use.
+   Gone through .Net Tricks You Tube vedio on OOPs.
+   Afsal explained MVC structure and difference between MVC Web and MVC Core explained some real time examples.
+   
+   
+   
 
 
 
