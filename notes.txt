@@ -109,3 +109,19 @@ Given PPT presention on OOps Concept. Doubt clarification by @Ramesh Kumar. go t
 10-10-2022
 
 Today at 11.00am I attended oops implementation concept by Samantha. Another session by Bhushan Chandrashekhar Kolapkar on 12.30pm .On Properties,attributes, indexersand enums. Gone through exception handling concept how to use and where to use. Gone through .Net Tricks You Tube vedio on OOPs. Afsal explained MVC structure and difference between MVC Web and MVC Core explained some real time examples.
+
+11-10-2022
+
+Today i go through the SOLID tutorials in the module.
+Introduction video : containing Solid Principle. 
+S: Single Responsibility Principle (SRP)
+O: Open closed Principle (OCP)
+L: Liskov substitution Principle (LSP)
+I: Interface Segregation Principle (ISP)
+D: Dependency Inversion Principle (DIP) 
+
+Detailed Explanation:Detailed Explaination about solid principles and how to implement this in classes.
+
+I just gone through github simple project in console and try to clone to visual studio.
+
+
