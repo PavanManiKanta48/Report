@@ -124,4 +124,19 @@ Detailed Explanation:Detailed Explaination about solid principles and how to imp
 
 I just gone through github simple project in console and try to clone to visual studio.
 
+12-10-2022
+I gone through Project on OOps.
+I created a private repository and given name as ABC_Bank and checkedd readme,gitgore set to visual studio Contributors as samantha and afsal.
+I created an project in the repository folder and started my work in Visual studio.
+Today i Worked on Fields and properties and Constructors.
+While i am facing some issues on ceating fields and properties i refers to google.
+
+13-10-2022
+Samantha take a session at 11.00am she explained about previous day work what we have done.
+She take a classs on github and clarified the doubts of each person.
+Afsal taken a class on git and github and how its works.
+Samantha assigned task on methods. 
+ 
+
+
 
