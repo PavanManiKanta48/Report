@@ -137,6 +137,32 @@ She take a classs on github and clarified the doubts of each person.
 Afsal taken a class on git and github and how its works.
 Samantha assigned task on methods. 
  
+14-10-2022
+Today we have a meet with samatha about task 4.
+Task 4 is Bank.cs
+1. public void AddCustomer(string firstName, string lastName)
+Check if MAXCUSTOMER limit is reached display message else add new 
+customer
+2. public void GenerateReport()
+Display Bank Name, and type of account of each customer and balance of 
+each account
+3. public Customer GetCustomer(string firstName, string lastName)
+If the firstName and lastName match with the list of customer then return 
+the customer details. Else return null
+4. public override string ToString()
+Return Bank Name and Number of customers
+  Customer.cs
+1. public void AddAccount(Account account)
+Check if MAXACCOUNT limit is reached display message else add new 
+account
+2. public List<Account> GetAccount()
+return all accounts of the customer
+3. public Account GetFirstTransferableAccount()
+Return the first savings account of the customer from the list of accounts 
+of the customer
+
+Task 5 is on Creating Exception classes and create an instance of that exception clases in 
+Bank.cs,Customer.cs,Account.cs Classes.
 
 
 
